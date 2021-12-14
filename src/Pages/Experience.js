@@ -34,17 +34,17 @@ export default function Experience() {
       <Card className={classes.root} style={{borderBottom:'0.1px solid black'}} elevation={0} square >
        <CardContent >       
         <Typography variant="h5" component="h2" >
-           Internship in Xaana.ai
+          IT Support(Internship) 
         </Typography>
         <Typography className={classes.pos} color="textSecondary">
-          09 / 2020 – 12 / 2021
+          09 / 2021 – 12 /2021
         </Typography>
         <Typography variant="body2" component="p">
            {bull}assist team member with technical documentation<br />
            {bull}design and create diagrams to explain dataflow<br />
            {bull}develop website which combines documenation with animation/charts<br />
            {bull}edit PowerPoint with animation<br />
-           {bull}daily progress meeting<br />
+           {bull}learn using Talend to export data graphically<br />
         </Typography>
       </CardContent>
     </Card>
@@ -52,10 +52,10 @@ export default function Experience() {
     <Card className={classes.root} style={{borderBottom:'0.1px solid black'}} elevation={0} square >
        <CardContent >       
         <Typography variant="h5" component="h2" >
-           Bootcamps Projects (programming | video editing)
+           Bootcamps Projects (coding/video editing)
         </Typography>
         <Typography className={classes.pos} color="textSecondary">
-          10 / 2020 – 07 / 2021
+          10 / 2020 – 08 / 2021
         </Typography>
         <Typography variant="body2" component="p">
            {bull}Develop SPA application by using JavaScript, API, HTML, CSS<br />
