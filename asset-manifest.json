@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/fegd/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/fegd/static/js/main.593f6f18.chunk.js",
-    "main.js.map": "/fegd/static/js/main.593f6f18.chunk.js.map",
-    "runtime-main.js": "/fegd/static/js/runtime-main.ac9ea330.js",
-    "runtime-main.js.map": "/fegd/static/js/runtime-main.ac9ea330.js.map",
-    "static/js/2.39b4fcd0.chunk.js": "/fegd/static/js/2.39b4fcd0.chunk.js",
-    "static/js/2.39b4fcd0.chunk.js.map": "/fegd/static/js/2.39b4fcd0.chunk.js.map",
-    "static/js/3.1f6d55cc.chunk.js": "/fegd/static/js/3.1f6d55cc.chunk.js",
-    "static/js/3.1f6d55cc.chunk.js.map": "/fegd/static/js/3.1f6d55cc.chunk.js.map",
+    "main.js": "/fegd/static/js/main.d2176f61.chunk.js",
+    "main.js.map": "/fegd/static/js/main.d2176f61.chunk.js.map",
+    "runtime-main.js": "/fegd/static/js/runtime-main.d66aab5a.js",
+    "runtime-main.js.map": "/fegd/static/js/runtime-main.d66aab5a.js.map",
+    "static/js/2.02446500.chunk.js": "/fegd/static/js/2.02446500.chunk.js",
+    "static/js/2.02446500.chunk.js.map": "/fegd/static/js/2.02446500.chunk.js.map",
+    "static/js/3.2766c705.chunk.js": "/fegd/static/js/3.2766c705.chunk.js",
+    "static/js/3.2766c705.chunk.js.map": "/fegd/static/js/3.2766c705.chunk.js.map",
     "index.html": "/fegd/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/fegd/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.39b4fcd0.chunk.js.LICENSE.txt": "/fegd/static/js/2.39b4fcd0.chunk.js.LICENSE.txt",
+    "static/js/2.02446500.chunk.js.LICENSE.txt": "/fegd/static/js/2.02446500.chunk.js.LICENSE.txt",
     "static/media/covidTrackerReact.3125cc83.png": "/fegd/static/media/covidTrackerReact.3125cc83.png",
     "static/media/farmTaskRails.9f38778f.png": "/fegd/static/media/farmTaskRails.9f38778f.png",
     "static/media/myPic.579a679c.jpg": "/fegd/static/media/myPic.579a679c.jpg",
-    "static/media/peiqian.257e0162.png": "/fegd/static/media/peiqian.257e0162.png",
+    "static/media/peiqianGreen.671072de.png": "/fegd/static/media/peiqianGreen.671072de.png",
     "static/media/rubyCLI.46aa01e1.png": "/fegd/static/media/rubyCLI.46aa01e1.png",
     "static/media/searchWordJs.ef6ab624.png": "/fegd/static/media/searchWordJs.ef6ab624.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac9ea330.js",
-    "static/js/2.39b4fcd0.chunk.js",
+    "static/js/runtime-main.d66aab5a.js",
+    "static/js/2.02446500.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.593f6f18.chunk.js"
+    "static/js/main.d2176f61.chunk.js"
   ]
 }
