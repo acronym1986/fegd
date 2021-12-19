@@ -5,7 +5,7 @@ import CardContent from '@material-ui/core/CardContent';
 import Typography from '@material-ui/core/Typography';
 import { red } from '@material-ui/core/colors';
 import { Box } from '@material-ui/core';
-import myPic from '../img/myPic.jpg'
+import myPic from '../img/myPic.png'
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import EmailIcon from '@material-ui/icons/Email';
 import PhoneIphoneIcon from '@material-ui/icons/PhoneIphone';
@@ -69,10 +69,11 @@ export default function About() {
             <Box display="flex" flexDirection="row-end">
                 <Box 
                 component="img" 
-                border={1}
+                border={0}
                 src={myPic}
-                width={80} 
-                height={120}
+                width={100} 
+                height={150}
+                
                 />
              </Box>
         </Box> 

@@ -12,7 +12,7 @@ export default function Header() {
         </Box>
         <Box flexGrow={1}></Box>
         <Box p={1}>
-        <Typography variant="body2" component="p" style={{color:'#006400', fontSize:'x-small'}}>
+        <Typography variant="body2" component="p" style={{color:'#006400', fontSize:'x-small', borderLeft:'1px solid #006400', paddingLeft:'5px'}}>
           acronym1986@gmail.com
           <br/>
           0435224612
