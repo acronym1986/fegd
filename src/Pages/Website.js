@@ -11,7 +11,8 @@ import farmTaskRails from '../img/farmTaskRails.png';
 
 const useStyles = makeStyles((theme) => ({
   root: {
-    display: 'flex'
+    display: 'flex',
+    backgroundColor: '#F0F0F0'
   },
   details: {
     display: 'flex',
@@ -34,7 +35,7 @@ export default function Website() {
 
   return (
     <div>
-    <Card className={classes.root} style={{borderBottom:'0.1px solid black'}} elevation={0} square>
+    <Card className={classes.root} style={{borderBottom:'0.1px solid #006400'}} elevation={0} square>
       <div className={classes.details}>
         <CardContent className={classes.content}>
           <Typography component="h6" variant="h6">
@@ -56,7 +57,7 @@ export default function Website() {
         </CardMedia>
     </Card>
 
-    <Card className={classes.root} style={{borderBottom:'0.1px solid black'}} elevation={0} square>
+    <Card className={classes.root} style={{borderBottom:'0.1px solid #006400'}} elevation={0} square>
       <div className={classes.details}>
         <CardContent className={classes.content}>
           <Typography component="h6" variant="h6">
@@ -78,7 +79,7 @@ export default function Website() {
         </CardMedia>
     </Card>
       
-    <Card className={classes.root} style={{borderBottom:'0.1px solid black'}} elevation={0} square>
+    <Card className={classes.root} style={{borderBottom:'0.1px solid #006400'}} elevation={0} square>
       <div className={classes.details}>
         <CardContent className={classes.content}>
           <Typography component="h6" variant="h6">

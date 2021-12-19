@@ -18,6 +18,7 @@ import ListItemText from '@material-ui/core/ListItemText';
 const useStyles = makeStyles({
   root: {
     minWidth: 275,
+    backgroundColor: '#F0F0F0'
   },
   
   bullet: {
@@ -46,12 +47,12 @@ export default function About() {
 
   return (
     <div>
-    <Card className={classes.root} style={{borderBottom:'0.1px solid black'}} elevation={0} square>
+    <Card className={classes.root} elevation={0} style={{borderBottom:'0.1px solid #006400'}} square>
          
          <Box display="flex" flexDirection="row" p={1} m={1}>
             <Box p={1} >
               <Typography variant="h5" component="h2" >
-              ABOUT MYSELF (Phillip)
+              ABOUT (Phillip)
               </Typography>
                  
               <Typography variant="body2" component="p">
@@ -78,7 +79,7 @@ export default function About() {
     </Card>
            
 
-    <Card  className={classes.root} style={{borderBottom:'0.1px solid black'}}  elevation={0} square>
+    <Card  className={classes.root} style={{borderBottom:'0.1px solid #006400'}}  elevation={0} square>
       <CardContent>       
         <Typography variant="h5" component="h2">
           HARD SKILL
@@ -94,7 +95,7 @@ export default function About() {
     </Card>
 
        
-    <Card className={classes.root} style={{borderBottom:'0.1px solid black'}} elevation={0} square>
+    <Card className={classes.root} style={{borderBottom:'0.1px solid #006400'}} elevation={0} square>
       <CardContent>       
         <Typography variant="h5" component="h2">
           SOFT SKILL

@@ -9,6 +9,7 @@ import Typography from '@material-ui/core/Typography';
 const useStyles = makeStyles({
   root: {
     minWidth: 275,
+    backgroundColor: '#F0F0F0'
   },
   
   bullet: {
@@ -34,7 +35,7 @@ export default function Experience() {
       <Card className={classes.root} style={{borderBottom:'0.1px solid black'}} elevation={0} square >
        <CardContent >       
         <Typography variant="h5" component="h2" >
-          IT Support(Internship) 
+          IT Support (Internship) 
         </Typography>
         <Typography className={classes.pos} color="textSecondary">
           09 / 2021 – 12 /2021
@@ -114,7 +115,7 @@ export default function Experience() {
     <Card className={classes.root} style={{borderBottom:'0.1px solid black'}} elevation={0} square >
       <CardContent>       
         <Typography variant="h5" component="h2">
-         Graphed Design volunteer (student)
+         Graphed Design Volunteer (student)
         </Typography>
         <Typography className={classes.pos} color="textSecondary">
          09 / 2007 – 06 / 2010

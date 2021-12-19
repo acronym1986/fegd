@@ -10,6 +10,7 @@ import Typography from '@material-ui/core/Typography';
 const useStyles = makeStyles({
   root: {
     minWidth: 275,
+    backgroundColor: '#F0F0F0'
   },
   
   bullet: {
@@ -33,7 +34,7 @@ export default function Education() {
   return (
     <div  >
 
-    <Card className={classes.root} style={{borderBottom:'0.1px solid black'}} elevation={0} square >
+    <Card className={classes.root} style={{borderBottom:'0.1px solid #006400'}} elevation={0} square >
        <CardContent >       
         <Typography variant="h5" component="h2" >
         Federation University Australia
@@ -50,7 +51,7 @@ export default function Education() {
     </Card>
 
 
-    <Card className={classes.root} style={{borderBottom:'0.1px solid black'}} elevation={0} square >
+    <Card className={classes.root} style={{borderBottom:'0.1px solid #006400'}} elevation={0} square >
       <CardContent>       
         <Typography variant="h5" component="h2">
           University of Technology, Sydney (UTS)
@@ -67,7 +68,7 @@ export default function Education() {
     </Card>
 
 
-    <Card className={classes.root} style={{borderBottom:'0.1px solid black'}} elevation={0} square >
+    <Card className={classes.root} style={{borderBottom:'0.1px solid #006400'}} elevation={0} square >
       <CardContent>       
         <Typography variant="h5" component="h2">
         Guangzhou University, China

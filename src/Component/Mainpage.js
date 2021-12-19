@@ -17,9 +17,9 @@ const useStyles = makeStyles((theme) => ({
   },
   paper: {
     padding: theme.spacing(0),
-    textAlign: 'center',
+    //textAlign: 'center',
     color: theme.palette.text.secondary,
-    borderBottom:'0.1px solid black'
+    borderBottom:'1px solid #006400'
   },
   list:{
     width: '100%',
@@ -28,7 +28,7 @@ const useStyles = makeStyles((theme) => ({
     //backgroundColor: 'grey',
   },
   listborder:{
-    borderBottom:'0.1px solid black'
+    borderBottom:'1px solid #006400'
   }
 }));
 
@@ -43,11 +43,11 @@ const useStyles = makeStyles((theme) => ({
       <Grid container direction="row" justifyContent="center" spacing={0}>
         <Grid item xs={10}>
            <Paper className={classes.paper} elevation={0} square> 
-            <Header/>
+           <Header/>
             </Paper>
         </Grid>
         <Grid item xs={10} sm={3}>
-            <Paper elevation={0} square>
+            <Paper elevation={0} square style={{backgroundColor:'#F5F5F5'}}>
            <div className={classes.list}>
                 <List component="nav"  aria-label="main mailbox folders">
                     <ListItem className={classes.listborder} onClick={() => history.push("/")} dense button>
@@ -73,7 +73,7 @@ const useStyles = makeStyles((theme) => ({
             </Paper>
          </Grid>
           <Grid item xs={10} sm={7}>
-            <Paper  elevation={0} square>
+            <Paper  elevation={0} square > 
             <Maincontent/>
             </Paper>
           </Grid>
