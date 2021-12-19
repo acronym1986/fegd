@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fegd/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/fegd/static/js/main.d2176f61.chunk.js",
-    "main.js.map": "/fegd/static/js/main.d2176f61.chunk.js.map",
+    "main.js": "/fegd/static/js/main.689cca26.chunk.js",
+    "main.js.map": "/fegd/static/js/main.689cca26.chunk.js.map",
     "runtime-main.js": "/fegd/static/js/runtime-main.d66aab5a.js",
     "runtime-main.js.map": "/fegd/static/js/runtime-main.d66aab5a.js.map",
     "static/js/2.02446500.chunk.js": "/fegd/static/js/2.02446500.chunk.js",
@@ -14,8 +14,8 @@
     "static/js/2.02446500.chunk.js.LICENSE.txt": "/fegd/static/js/2.02446500.chunk.js.LICENSE.txt",
     "static/media/covidTrackerReact.3125cc83.png": "/fegd/static/media/covidTrackerReact.3125cc83.png",
     "static/media/farmTaskRails.9f38778f.png": "/fegd/static/media/farmTaskRails.9f38778f.png",
-    "static/media/myPic.579a679c.jpg": "/fegd/static/media/myPic.579a679c.jpg",
-    "static/media/peiqianGreen.671072de.png": "/fegd/static/media/peiqianGreen.671072de.png",
+    "static/media/myPic.b59405ea.png": "/fegd/static/media/myPic.b59405ea.png",
+    "static/media/peiqianGreen.1d40daa1.png": "/fegd/static/media/peiqianGreen.1d40daa1.png",
     "static/media/rubyCLI.46aa01e1.png": "/fegd/static/media/rubyCLI.46aa01e1.png",
     "static/media/searchWordJs.ef6ab624.png": "/fegd/static/media/searchWordJs.ef6ab624.png"
   },
@@ -23,6 +23,6 @@
     "static/js/runtime-main.d66aab5a.js",
     "static/js/2.02446500.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.d2176f61.chunk.js"
+    "static/js/main.689cca26.chunk.js"
   ]
 }
